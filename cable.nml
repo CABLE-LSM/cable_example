@@ -2,7 +2,7 @@
    filename%met = ''
    filename%out = 'cable_out.nc'
    filename%log = 'cable_log.txt'
-   filename%restart_in = ''
+   filename%restart_in = 'INPUT/restart_in.nc'
    filename%restart_out = 'RESTART/1903_restart.nc'
    filename%type = 'INPUT/gridinfo-access-esm.nc'
    filename%veg = 'INPUT/def_veg_params_zr_clitt_albedo_fix.txt'
@@ -33,7 +33,7 @@
    fixedCO2 =286.0 ! if not found in met file, in ppmv
    !spincasainput = ''    !FALSE   ! input required to spin casacnp offline
    spincasa = .FALSE.     ! spin casa before running the model if TRUE, and should be set to FALSE if spincasainput 
-   l_laiFeedbk = .TRUE.  ! using prognostic LAI
+   l_laiFeedbk = .FALSE.  ! using prognostic LAI
    l_vcmaxFeedbk = .FALSE.  ! using prognostic Vcmax
 ! TODO(Sean) remove casa inputs
 !   casafile%cnpipool = 'INPUT/poolcnp_in.nc'  ! 
@@ -71,7 +71,7 @@
    cable_user%CASA_fromZero = .FALSE.
    CABLE_USER%soil_thermal_fix =.TRUE.
    l_casacnp=.FALSE. 
-   icycle=1 
+   icycle=0
    gswpfile%mask = 'INPUT/landsea-access-esm.nc'
    gswpfile%Rainf = 'INPUT/crujra_access_Rainf_rain_1903.nc' 
    gswpfile%snowf = 'INPUT/crujra_access_Rainf_snow_1903.nc' 
