@@ -1,0 +1,25 @@
+# Scheduler settings
+queue: normal
+ncpus: 16
+walltime: 1:00:00
+mem: 64GB
+jobname: cable_offline_example
+
+# Model settings
+model: cable
+exe: /home/189/sb8430/cable/trunk/offline/cable-mpi # cable trunk (last changed revision: 9469):
+input:
+    - /home/189/sb8430/cable_inputs
+    - /home/189/sb8430/cable/CABLE-AUX/core/biogeophys/def_veg_params_zr_clitt_albedo_fix.txt
+    - /home/189/sb8430/cable/CABLE-AUX/core/biogeophys/def_soil_params.txt
+    - /g/data/tm70/ccc561/CABLE/CABLE-as-ACCESS_Yingping/input/gridinfo-access-esm.nc
+    - /g/data/tm70/ccc561/CABLE/CABLE-as-ACCESS_Yingping/cruncep10/crujra_access_Rainf_rain_1903.nc
+    - /g/data/tm70/ccc561/CABLE/CABLE-as-ACCESS_Yingping/cruncep10/crujra_access_Rainf_snow_1903.nc
+    - /g/data/tm70/ccc561/CABLE/CABLE-as-ACCESS_Yingping/cruncep10/crujra_access_LWdown_1903.nc
+    - /g/data/tm70/ccc561/CABLE/CABLE-as-ACCESS_Yingping/cruncep10/crujra_access_SWdown_1903.nc
+    - /g/data/tm70/ccc561/CABLE/CABLE-as-ACCESS_Yingping/cruncep10/crujra_access_Qair_1903.nc
+    - /g/data/tm70/ccc561/CABLE/CABLE-as-ACCESS_Yingping/cruncep10/crujra_access_Tair_1903.nc
+    - /g/data/tm70/ccc561/CABLE/CABLE-as-ACCESS_Yingping/cruncep10/crujra_access_Wind_1903.nc
+    - /g/data/tm70/ccc561/CABLE/CABLE-as-ACCESS_Yingping/cruncep10/crujra_access_PSurf_1903.nc
+
+restart: /home/189/sb8430/cable_restart_1903

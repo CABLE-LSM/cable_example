@@ -1,0 +1,63 @@
+format: yamanifest
+version: 1.0
+---
+work/INPUT/crujra_access_LWdown_1903.nc:
+  fullpath: /g/data/tm70/ccc561/CABLE/CABLE-as-ACCESS_Yingping/cruncep10/crujra_access_LWdown_1903.nc
+  hashes:
+    binhash: f5b2a43754175a8722b82dd8c83a1bdb
+    md5: 2ae645081e15c5127d41e4fb7ca3e38c
+work/INPUT/crujra_access_PSurf_1903.nc:
+  fullpath: /g/data/tm70/ccc561/CABLE/CABLE-as-ACCESS_Yingping/cruncep10/crujra_access_PSurf_1903.nc
+  hashes:
+    binhash: 6e2080fec4c02d93e291c0cd722dabdd
+    md5: 51397544922dfa1dfbb78a7498e5df29
+work/INPUT/crujra_access_Qair_1903.nc:
+  fullpath: /g/data/tm70/ccc561/CABLE/CABLE-as-ACCESS_Yingping/cruncep10/crujra_access_Qair_1903.nc
+  hashes:
+    binhash: b21ce63563585730b26f7d5905799dfc
+    md5: fc01019ca8b70e9ad1f0d0e1eac67c6e
+work/INPUT/crujra_access_Rainf_rain_1903.nc:
+  fullpath: /g/data/tm70/ccc561/CABLE/CABLE-as-ACCESS_Yingping/cruncep10/crujra_access_Rainf_rain_1903.nc
+  hashes:
+    binhash: 90d55b4b0938829aa280269d86b44709
+    md5: 0352392da4e7309cc75335825fe7d18e
+work/INPUT/crujra_access_Rainf_snow_1903.nc:
+  fullpath: /g/data/tm70/ccc561/CABLE/CABLE-as-ACCESS_Yingping/cruncep10/crujra_access_Rainf_snow_1903.nc
+  hashes:
+    binhash: 6a8625859aadf58283e0510d4a3f6a43
+    md5: b8ab5aa1f0904e183524a232fba77584
+work/INPUT/crujra_access_SWdown_1903.nc:
+  fullpath: /g/data/tm70/ccc561/CABLE/CABLE-as-ACCESS_Yingping/cruncep10/crujra_access_SWdown_1903.nc
+  hashes:
+    binhash: b6602560bf6fd9b86d17537e230833dc
+    md5: d754607129b10ec4c46916bfebb7b754
+work/INPUT/crujra_access_Tair_1903.nc:
+  fullpath: /g/data/tm70/ccc561/CABLE/CABLE-as-ACCESS_Yingping/cruncep10/crujra_access_Tair_1903.nc
+  hashes:
+    binhash: 1e2518a4614996dc4b7626cd07877266
+    md5: d98a3831dde962d70be0b4f71d29645e
+work/INPUT/crujra_access_Wind_1903.nc:
+  fullpath: /g/data/tm70/ccc561/CABLE/CABLE-as-ACCESS_Yingping/cruncep10/crujra_access_Wind_1903.nc
+  hashes:
+    binhash: e366baca92bc4d36e8ba6134a92ee468
+    md5: ea2df972214b7e0b4323843b39bfe12a
+work/INPUT/def_soil_params.txt:
+  fullpath: /home/189/sb8430/cable/CABLE-AUX/core/biogeophys/def_soil_params.txt
+  hashes:
+    binhash: ce9bdc85880c2b5deeb47fe9a787cfbc
+    md5: 93107e8c37e04ccf97471fd2ac8f63eb
+work/INPUT/def_veg_params_zr_clitt_albedo_fix.txt:
+  fullpath: /home/189/sb8430/cable/CABLE-AUX/core/biogeophys/def_veg_params_zr_clitt_albedo_fix.txt
+  hashes:
+    binhash: 778f82e71b6e11762aa334146fad94f4
+    md5: 774b9f4b1c44a251cdb403d7596de280
+work/INPUT/gridinfo-access-esm.nc:
+  fullpath: /g/data/tm70/ccc561/CABLE/CABLE-as-ACCESS_Yingping/input/gridinfo-access-esm.nc
+  hashes:
+    binhash: 18671bc1079f6884264a034bb1c66c90
+    md5: 12e7eab52b0e758d6d8b683090166308
+work/INPUT/landsea-access-esm.nc:
+  fullpath: /home/189/sb8430/cable_inputs/landsea-access-esm.nc
+  hashes:
+    binhash: 1a40cdc1158938323e71302bb4f7b1c4
+    md5: b62ae264048e0ec1c47104d58a6aebac

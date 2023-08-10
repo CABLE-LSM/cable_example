@@ -1,0 +1,8 @@
+format: yamanifest
+version: 1.0
+---
+work/cable-mpi:
+  fullpath: /home/189/sb8430/cable/trunk/offline/cable-mpi
+  hashes:
+    binhash: 72ae55ac921038fad4f38e95f6fba682
+    md5: 77051a0b883c05711df3cb9f8b32a47f
