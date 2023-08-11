@@ -25,6 +25,9 @@ input:
 # Disable collation
 collate: False
 
+# The walltime time used for one run ~ 3 minutes
+runspersub: 10
+
 # Specify restart directory (should contain cable.res.yaml and a CABLE restart file):
 restart: /home/189/sb8430/cable_restart_1903
 
