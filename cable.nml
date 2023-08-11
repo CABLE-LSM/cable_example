@@ -3,7 +3,7 @@
    filename%out = 'cable_out.nc'
    filename%log = 'cable_log.txt'
    filename%restart_in = 'INPUT/restart_in.nc'
-   filename%restart_out = 'RESTART/1903_restart.nc'
+   filename%restart_out = 'RESTART/restart.nc'
    filename%type = 'INPUT/gridinfo-access-esm.nc'
    filename%veg = 'INPUT/def_veg_params_zr_clitt_albedo_fix.txt'
    filename%soil = 'INPUT/def_soil_params.txt'
@@ -35,14 +35,6 @@
    spincasa = .FALSE.     ! spin casa before running the model if TRUE, and should be set to FALSE if spincasainput 
    l_laiFeedbk = .FALSE.  ! using prognostic LAI
    l_vcmaxFeedbk = .FALSE.  ! using prognostic Vcmax
-! TODO(Sean) remove casa inputs
-!   casafile%cnpipool = 'INPUT/poolcnp_in.nc'  ! 
-!   casafile%cnpepool = 'INPUT/poolcnp_out.nc'
-!   casafile%cnpbiome = 'INPUT/pftlookup_csiro_v16_17tiles_Ticket2.csv' 
-!   casafile%cnpmetout = 'casamet.nc'                ! output daily met forcing for spinning casacnp
-!   casafile%cnpmetin = ''          ! list of daily met files for spinning casacnp
-!   casafile%phen = 'INPUT/modis_phenology_csiro.txt'        ! modis phenology
-!   casafile%cnpflux = 'cnpfluxOut.csv'
    ncciy = 1903   ! 0 for not using gswp
    redistrb = .FALSE.  ! Turn on/off the hydraulic redistribution
    wiltParam = 0.5
