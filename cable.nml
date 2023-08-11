@@ -2,7 +2,7 @@
    filename%met = ''
    filename%out = 'cable_out.nc'
    filename%log = 'cable_log.txt'
-   filename%restart_in = 'INPUT/restart_in.nc'
+   filename%restart_in = 'RESTART/restart.nc'
    filename%restart_out = 'RESTART/restart.nc'
    filename%type = 'INPUT/gridinfo-access-esm.nc'
    filename%veg = 'INPUT/def_veg_params_zr_clitt_albedo_fix.txt'
@@ -35,7 +35,7 @@
    spincasa = .FALSE.     ! spin casa before running the model if TRUE, and should be set to FALSE if spincasainput 
    l_laiFeedbk = .FALSE.  ! using prognostic LAI
    l_vcmaxFeedbk = .FALSE.  ! using prognostic Vcmax
-   ncciy = 1903   ! 0 for not using gswp
+   ncciy = $year   ! 0 for not using gswp
    redistrb = .FALSE.  ! Turn on/off the hydraulic redistribution
    wiltParam = 0.5
    satuParam = 0.8
@@ -65,12 +65,12 @@
    l_casacnp=.FALSE. 
    icycle=0
    gswpfile%mask = 'INPUT/landsea-access-esm.nc'
-   gswpfile%Rainf = 'INPUT/crujra_access_Rainf_rain_1903.nc' 
-   gswpfile%snowf = 'INPUT/crujra_access_Rainf_snow_1903.nc' 
-   gswpfile%LWdown = 'INPUT/crujra_access_LWdown_1903.nc' 
-   gswpfile%SWdown = 'INPUT/crujra_access_SWdown_1903.nc' 
-   gswpfile%PSurf = 'INPUT/crujra_access_PSurf_1903.nc' 
-   gswpfile%Qair = 'INPUT/crujra_access_Qair_1903.nc' 
-   gswpfile%Tair = 'INPUT/crujra_access_Tair_1903.nc' 
-   gswpfile%wind = 'INPUT/crujra_access_Wind_1903.nc' 
+   gswpfile%Rainf = 'INPUT/crujra_access_Rainf_rain_$year.nc' 
+   gswpfile%snowf = 'INPUT/crujra_access_Rainf_snow_$year.nc' 
+   gswpfile%LWdown = 'INPUT/crujra_access_LWdown_$year.nc' 
+   gswpfile%SWdown = 'INPUT/crujra_access_SWdown_$year.nc' 
+   gswpfile%PSurf = 'INPUT/crujra_access_PSurf_$year.nc' 
+   gswpfile%Qair = 'INPUT/crujra_access_Qair_$year.nc' 
+   gswpfile%Tair = 'INPUT/crujra_access_Tair_$year.nc' 
+   gswpfile%wind = 'INPUT/crujra_access_Wind_$year.nc' 
 &end
