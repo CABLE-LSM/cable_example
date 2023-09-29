@@ -1,46 +1,381 @@
 format: yamanifest
 version: 1.0
 ---
+work/INPUT/crujra_access_LWdown_1901.nc:
+  fullpath: /g/data/tm70/sb8430/cable/MetForcing/crujra_access/LWdown/crujra_access_LWdown_1901.nc
+  hashes:
+    binhash: 3a6b25615bc75bd8de020caf1746344b
+    md5: 06b7ed2f6232e985860e311a8b23c484
+work/INPUT/crujra_access_LWdown_1902.nc:
+  fullpath: /g/data/tm70/sb8430/cable/MetForcing/crujra_access/LWdown/crujra_access_LWdown_1902.nc
+  hashes:
+    binhash: 2f851599d15f044ce73f540dbcc0abc9
+    md5: ae041bcbf7983ef29d965efa6d446b02
 work/INPUT/crujra_access_LWdown_1903.nc:
-  fullpath: /g/data/tm70/ccc561/CABLE/CABLE-as-ACCESS_Yingping/cruncep10/crujra_access_LWdown_1903.nc
+  fullpath: /g/data/tm70/sb8430/cable/MetForcing/crujra_access/LWdown/crujra_access_LWdown_1903.nc
   hashes:
-    binhash: f5b2a43754175a8722b82dd8c83a1bdb
+    binhash: 287a502622b86d878a6a820d82077052
     md5: 2ae645081e15c5127d41e4fb7ca3e38c
+work/INPUT/crujra_access_LWdown_1904.nc:
+  fullpath: /g/data/tm70/sb8430/cable/MetForcing/crujra_access/LWdown/crujra_access_LWdown_1904.nc
+  hashes:
+    binhash: 2359c9ff9858e226bd6ca6cf0ad83298
+    md5: f9dc9eeea2302e66ade8b88458613092
+work/INPUT/crujra_access_LWdown_1905.nc:
+  fullpath: /g/data/tm70/sb8430/cable/MetForcing/crujra_access/LWdown/crujra_access_LWdown_1905.nc
+  hashes:
+    binhash: cd0272e6b97917d8a884065f99ec8250
+    md5: bcd55a8b7b5a4c3892c10a4db3af8016
+work/INPUT/crujra_access_LWdown_1906.nc:
+  fullpath: /g/data/tm70/sb8430/cable/MetForcing/crujra_access/LWdown/crujra_access_LWdown_1906.nc
+  hashes:
+    binhash: 7a971424b4ca5758b925f422a03cc991
+    md5: 35b5d68b727ba61240d4963e8cdee20f
+work/INPUT/crujra_access_LWdown_1907.nc:
+  fullpath: /g/data/tm70/sb8430/cable/MetForcing/crujra_access/LWdown/crujra_access_LWdown_1907.nc
+  hashes:
+    binhash: 99f1e1013d12b00268074af393114eba
+    md5: aa72c97687b6e9121271401f0a65267b
+work/INPUT/crujra_access_LWdown_1908.nc:
+  fullpath: /g/data/tm70/sb8430/cable/MetForcing/crujra_access/LWdown/crujra_access_LWdown_1908.nc
+  hashes:
+    binhash: 1748716dc363e84da7b396bcad5fe95a
+    md5: f1df7478e41f0349fdafde0b9c8ebae5
+work/INPUT/crujra_access_LWdown_1909.nc:
+  fullpath: /g/data/tm70/sb8430/cable/MetForcing/crujra_access/LWdown/crujra_access_LWdown_1909.nc
+  hashes:
+    binhash: 94db3b25035374585698ab397c59180f
+    md5: cbb65e8768e86b1bb19982cec310ab7b
+work/INPUT/crujra_access_PSurf_1901.nc:
+  fullpath: /g/data/tm70/sb8430/cable/MetForcing/crujra_access/PSurf/crujra_access_PSurf_1901.nc
+  hashes:
+    binhash: a178f7e176bbab3b175a89e21333e743
+    md5: 1dda26e989739b5318c87e97d47c7783
+work/INPUT/crujra_access_PSurf_1902.nc:
+  fullpath: /g/data/tm70/sb8430/cable/MetForcing/crujra_access/PSurf/crujra_access_PSurf_1902.nc
+  hashes:
+    binhash: bda58ed4c01716df79cfe03322260e86
+    md5: 30e6c04586fea263ad3db3f3359791c3
 work/INPUT/crujra_access_PSurf_1903.nc:
-  fullpath: /g/data/tm70/ccc561/CABLE/CABLE-as-ACCESS_Yingping/cruncep10/crujra_access_PSurf_1903.nc
+  fullpath: /g/data/tm70/sb8430/cable/MetForcing/crujra_access/PSurf/crujra_access_PSurf_1903.nc
   hashes:
-    binhash: 6e2080fec4c02d93e291c0cd722dabdd
+    binhash: 78cb358d52b47beb06037f66440ad132
     md5: 51397544922dfa1dfbb78a7498e5df29
+work/INPUT/crujra_access_PSurf_1904.nc:
+  fullpath: /g/data/tm70/sb8430/cable/MetForcing/crujra_access/PSurf/crujra_access_PSurf_1904.nc
+  hashes:
+    binhash: 1a7457ea7dd597618a362111fbface03
+    md5: e326187ee30406b3090b540af1df0a43
+work/INPUT/crujra_access_PSurf_1905.nc:
+  fullpath: /g/data/tm70/sb8430/cable/MetForcing/crujra_access/PSurf/crujra_access_PSurf_1905.nc
+  hashes:
+    binhash: 88be8a7e1c2434e2c5773270fe61ffec
+    md5: 24ee069c0759440c9590eb823eb07486
+work/INPUT/crujra_access_PSurf_1906.nc:
+  fullpath: /g/data/tm70/sb8430/cable/MetForcing/crujra_access/PSurf/crujra_access_PSurf_1906.nc
+  hashes:
+    binhash: 4708ed1b1dcb62bd6ac58a40d30919c0
+    md5: 0fb6f63ad596fc10dbfd1795153f7f1f
+work/INPUT/crujra_access_PSurf_1907.nc:
+  fullpath: /g/data/tm70/sb8430/cable/MetForcing/crujra_access/PSurf/crujra_access_PSurf_1907.nc
+  hashes:
+    binhash: 2df23cc956333a4dcbd03fffa9e8cb12
+    md5: 64db92561dbd02ebfaa28bd5272dec06
+work/INPUT/crujra_access_PSurf_1908.nc:
+  fullpath: /g/data/tm70/sb8430/cable/MetForcing/crujra_access/PSurf/crujra_access_PSurf_1908.nc
+  hashes:
+    binhash: eef8f091bb218565e9fac42767683f98
+    md5: 59eaf36a7b76b65b8cec80237129a4d2
+work/INPUT/crujra_access_PSurf_1909.nc:
+  fullpath: /g/data/tm70/sb8430/cable/MetForcing/crujra_access/PSurf/crujra_access_PSurf_1909.nc
+  hashes:
+    binhash: 6e08b490d543dae8a9d7bb9c6fdfffca
+    md5: 7e942b7a04ab1221332bb86ea052ed4f
+work/INPUT/crujra_access_PSurf_1910.nc:
+  fullpath: /g/data/tm70/sb8430/cable/MetForcing/crujra_access/PSurf/crujra_access_PSurf_1910.nc
+  hashes:
+    binhash: 8510bb1fe1aed085685e353eed4e85b0
+    md5: fa59f213c3563f1937311880817d5a67
+work/INPUT/crujra_access_Qair_1901.nc:
+  fullpath: /g/data/tm70/sb8430/cable/MetForcing/crujra_access/Qair/crujra_access_Qair_1901.nc
+  hashes:
+    binhash: 7bd9360e7b56d5625e2b662a888c2d8b
+    md5: bb1e2e8604a5bceb30eccd5fb9d97c37
+work/INPUT/crujra_access_Qair_1902.nc:
+  fullpath: /g/data/tm70/sb8430/cable/MetForcing/crujra_access/Qair/crujra_access_Qair_1902.nc
+  hashes:
+    binhash: bc45724ea19934182ecfd92a64abcaef
+    md5: 560497ba1c69dbf11d9997a6f52f5993
 work/INPUT/crujra_access_Qair_1903.nc:
-  fullpath: /g/data/tm70/ccc561/CABLE/CABLE-as-ACCESS_Yingping/cruncep10/crujra_access_Qair_1903.nc
+  fullpath: /g/data/tm70/sb8430/cable/MetForcing/crujra_access/Qair/crujra_access_Qair_1903.nc
   hashes:
-    binhash: b21ce63563585730b26f7d5905799dfc
+    binhash: e39dd4071fdebbe306660e0425e256ac
     md5: fc01019ca8b70e9ad1f0d0e1eac67c6e
-work/INPUT/crujra_access_Rainf_rain_1903.nc:
-  fullpath: /g/data/tm70/ccc561/CABLE/CABLE-as-ACCESS_Yingping/cruncep10/crujra_access_Rainf_rain_1903.nc
+work/INPUT/crujra_access_Qair_1904.nc:
+  fullpath: /g/data/tm70/sb8430/cable/MetForcing/crujra_access/Qair/crujra_access_Qair_1904.nc
   hashes:
-    binhash: 90d55b4b0938829aa280269d86b44709
+    binhash: a58aac10ce44903b66541c6e508f32a0
+    md5: 56f4effd2ecea30b1edbd636f8aeb8e2
+work/INPUT/crujra_access_Qair_1905.nc:
+  fullpath: /g/data/tm70/sb8430/cable/MetForcing/crujra_access/Qair/crujra_access_Qair_1905.nc
+  hashes:
+    binhash: 67a4b7fcd2721c0fc096bdbe6191e8d0
+    md5: 8f8d85fe32b75d9d2204656d1facdc6e
+work/INPUT/crujra_access_Qair_1906.nc:
+  fullpath: /g/data/tm70/sb8430/cable/MetForcing/crujra_access/Qair/crujra_access_Qair_1906.nc
+  hashes:
+    binhash: f4e3d8581062a46ea06faeefef199c76
+    md5: 2ac111628f6a695549a3033e74ffc670
+work/INPUT/crujra_access_Qair_1907.nc:
+  fullpath: /g/data/tm70/sb8430/cable/MetForcing/crujra_access/Qair/crujra_access_Qair_1907.nc
+  hashes:
+    binhash: 572ac229b9e1dec7445609f5e4fd3b40
+    md5: c2c883b1be86488eb1a74c975cb6221f
+work/INPUT/crujra_access_Qair_1908.nc:
+  fullpath: /g/data/tm70/sb8430/cable/MetForcing/crujra_access/Qair/crujra_access_Qair_1908.nc
+  hashes:
+    binhash: 44c1eec6318a3e81fb23090902d5d781
+    md5: 593cabbecebba2d80e39fd4cc43c2992
+work/INPUT/crujra_access_Qair_1909.nc:
+  fullpath: /g/data/tm70/sb8430/cable/MetForcing/crujra_access/Qair/crujra_access_Qair_1909.nc
+  hashes:
+    binhash: 7dd4729f07bec3c766011f5522df5928
+    md5: 25018dbb451fc0b0b314ec4892c460c5
+work/INPUT/crujra_access_Rainf_1901.nc:
+  fullpath: /g/data/tm70/sb8430/cable/MetForcing/crujra_access/Rainf/crujra_access_Rainf_1901.nc
+  hashes:
+    binhash: d27572576687a608ea60eee7433c798d
+    md5: f815257f17645285c594e26edaf171be
+work/INPUT/crujra_access_Rainf_1902.nc:
+  fullpath: /g/data/tm70/sb8430/cable/MetForcing/crujra_access/Rainf/crujra_access_Rainf_1902.nc
+  hashes:
+    binhash: a78d9fba05842af40e99de3f02bd4172
+    md5: 64e86df57d566ceb5b2c4932baf16500
+work/INPUT/crujra_access_Rainf_1903.nc:
+  fullpath: /g/data/tm70/sb8430/cable/MetForcing/crujra_access/Rainf/crujra_access_Rainf_1903.nc
+  hashes:
+    binhash: d7e62ba866d4a50e02d6f079975ce1d9
     md5: 0352392da4e7309cc75335825fe7d18e
-work/INPUT/crujra_access_Rainf_snow_1903.nc:
-  fullpath: /g/data/tm70/ccc561/CABLE/CABLE-as-ACCESS_Yingping/cruncep10/crujra_access_Rainf_snow_1903.nc
+work/INPUT/crujra_access_Rainf_1904.nc:
+  fullpath: /g/data/tm70/sb8430/cable/MetForcing/crujra_access/Rainf/crujra_access_Rainf_1904.nc
   hashes:
-    binhash: 6a8625859aadf58283e0510d4a3f6a43
-    md5: b8ab5aa1f0904e183524a232fba77584
+    binhash: b2f6cd5a3c269e5eb4a1bc21f86d451b
+    md5: 9f1aa5aa82aa1acbd77be8bf901c179b
+work/INPUT/crujra_access_Rainf_1905.nc:
+  fullpath: /g/data/tm70/sb8430/cable/MetForcing/crujra_access/Rainf/crujra_access_Rainf_1905.nc
+  hashes:
+    binhash: 0fa66e3676802ea1afb5f56a469a7e53
+    md5: 3a4bf72b2283b1df0c07ab22c8e1da5d
+work/INPUT/crujra_access_Rainf_1906.nc:
+  fullpath: /g/data/tm70/sb8430/cable/MetForcing/crujra_access/Rainf/crujra_access_Rainf_1906.nc
+  hashes:
+    binhash: eea6b12548c00c240f8c9f940bc2275e
+    md5: 78572b05a8e681fe9899fd3f1096c1cb
+work/INPUT/crujra_access_Rainf_1907.nc:
+  fullpath: /g/data/tm70/sb8430/cable/MetForcing/crujra_access/Rainf/crujra_access_Rainf_1907.nc
+  hashes:
+    binhash: 2bfb99f70768707c59d1b23aadbc7d17
+    md5: 3b5a1944ce5a2615fcd40cb68ca5b564
+work/INPUT/crujra_access_Rainf_1908.nc:
+  fullpath: /g/data/tm70/sb8430/cable/MetForcing/crujra_access/Rainf/crujra_access_Rainf_1908.nc
+  hashes:
+    binhash: bfaf2795921dc8dfc3bd14285f804e20
+    md5: 6601b0ae7969c6f8f8d5aa355757b123
+work/INPUT/crujra_access_Rainf_1909.nc:
+  fullpath: /g/data/tm70/sb8430/cable/MetForcing/crujra_access/Rainf/crujra_access_Rainf_1909.nc
+  hashes:
+    binhash: 96d3cd2dc1978be44aeda73817018d65
+    md5: 7c9e69774203c3cde5c03aa79cece4f7
+work/INPUT/crujra_access_SWdown_1901.nc:
+  fullpath: /g/data/tm70/sb8430/cable/MetForcing/crujra_access/SWdown/crujra_access_SWdown_1901.nc
+  hashes:
+    binhash: 2f8d22a0dba8bfb582a94276ee47e385
+    md5: 9609b21f2f0419776912ebb259d9b78c
+work/INPUT/crujra_access_SWdown_1902.nc:
+  fullpath: /g/data/tm70/sb8430/cable/MetForcing/crujra_access/SWdown/crujra_access_SWdown_1902.nc
+  hashes:
+    binhash: 3738d58968b36613583c4b62b6b40815
+    md5: 2779754e69a80ff8fbed33e5be2104f3
 work/INPUT/crujra_access_SWdown_1903.nc:
-  fullpath: /g/data/tm70/ccc561/CABLE/CABLE-as-ACCESS_Yingping/cruncep10/crujra_access_SWdown_1903.nc
+  fullpath: /g/data/tm70/sb8430/cable/MetForcing/crujra_access/SWdown/crujra_access_SWdown_1903.nc
   hashes:
-    binhash: b6602560bf6fd9b86d17537e230833dc
+    binhash: f159ef8df315c0ea6fe746d57196903c
     md5: d754607129b10ec4c46916bfebb7b754
+work/INPUT/crujra_access_SWdown_1904.nc:
+  fullpath: /g/data/tm70/sb8430/cable/MetForcing/crujra_access/SWdown/crujra_access_SWdown_1904.nc
+  hashes:
+    binhash: 20e468f4fdd9938e6657c22d1533f014
+    md5: f314a07ced4854104be504f9a8397d34
+work/INPUT/crujra_access_SWdown_1905.nc:
+  fullpath: /g/data/tm70/sb8430/cable/MetForcing/crujra_access/SWdown/crujra_access_SWdown_1905.nc
+  hashes:
+    binhash: 6aa3b0a1f646c381414cb3a30ce0f456
+    md5: fced70054ad44b5877587d6b23b8c343
+work/INPUT/crujra_access_SWdown_1906.nc:
+  fullpath: /g/data/tm70/sb8430/cable/MetForcing/crujra_access/SWdown/crujra_access_SWdown_1906.nc
+  hashes:
+    binhash: 8cb5dcd87dadb1c10c54cdcdcaa335d2
+    md5: d2ad20593d056b788326bc00b1919727
+work/INPUT/crujra_access_SWdown_1907.nc:
+  fullpath: /g/data/tm70/sb8430/cable/MetForcing/crujra_access/SWdown/crujra_access_SWdown_1907.nc
+  hashes:
+    binhash: 6d9db73bfb07ec165f52e4653d986b26
+    md5: 807281b0b2d8be052e0966be88316bae
+work/INPUT/crujra_access_SWdown_1908.nc:
+  fullpath: /g/data/tm70/sb8430/cable/MetForcing/crujra_access/SWdown/crujra_access_SWdown_1908.nc
+  hashes:
+    binhash: 69293a89802b78e178e9fcfd848b1da4
+    md5: 7c3c5131649d2fb0cf72f5ba5dd91b71
+work/INPUT/crujra_access_SWdown_1909.nc:
+  fullpath: /g/data/tm70/sb8430/cable/MetForcing/crujra_access/SWdown/crujra_access_SWdown_1909.nc
+  hashes:
+    binhash: 15782489f83af1de0d1d4e8e2d7f7e76
+    md5: 5936556552dbfea1245585e34cb33fc4
+work/INPUT/crujra_access_Snowf_1901.nc:
+  fullpath: /g/data/tm70/sb8430/cable/MetForcing/crujra_access/Snowf/crujra_access_Snowf_1901.nc
+  hashes:
+    binhash: 23c2cf609e06478e102abe22c8723f0f
+    md5: 24beb3d786ed58ea6aca3ba39c93b605
+work/INPUT/crujra_access_Snowf_1902.nc:
+  fullpath: /g/data/tm70/sb8430/cable/MetForcing/crujra_access/Snowf/crujra_access_Snowf_1902.nc
+  hashes:
+    binhash: e8ada5458a52aecacf1953c98fe1c206
+    md5: 8abbfe412e17bc2f5fa00d705ea551b7
+work/INPUT/crujra_access_Snowf_1903.nc:
+  fullpath: /g/data/tm70/sb8430/cable/MetForcing/crujra_access/Snowf/crujra_access_Snowf_1903.nc
+  hashes:
+    binhash: 726906584dd00ec82bb0268fc7ab8a17
+    md5: b8ab5aa1f0904e183524a232fba77584
+work/INPUT/crujra_access_Snowf_1904.nc:
+  fullpath: /g/data/tm70/sb8430/cable/MetForcing/crujra_access/Snowf/crujra_access_Snowf_1904.nc
+  hashes:
+    binhash: 5541a0d3f37e3cdd11d9b0555e70fa08
+    md5: 28fe4eeef7268fec236230abec6a26a0
+work/INPUT/crujra_access_Snowf_1905.nc:
+  fullpath: /g/data/tm70/sb8430/cable/MetForcing/crujra_access/Snowf/crujra_access_Snowf_1905.nc
+  hashes:
+    binhash: df6c2f4502b4e700cf1b08fa442ac018
+    md5: c282fd97753b9ab333b784fc0bc895ec
+work/INPUT/crujra_access_Snowf_1906.nc:
+  fullpath: /g/data/tm70/sb8430/cable/MetForcing/crujra_access/Snowf/crujra_access_Snowf_1906.nc
+  hashes:
+    binhash: 12158f30bc737c3423ec806d95894768
+    md5: dde89867b34552d619814899f83aec42
+work/INPUT/crujra_access_Snowf_1907.nc:
+  fullpath: /g/data/tm70/sb8430/cable/MetForcing/crujra_access/Snowf/crujra_access_Snowf_1907.nc
+  hashes:
+    binhash: 4b75b16a311ef9b64318372f16031d4a
+    md5: a00bf989f1a01cebe0853fe91217b2ee
+work/INPUT/crujra_access_Snowf_1908.nc:
+  fullpath: /g/data/tm70/sb8430/cable/MetForcing/crujra_access/Snowf/crujra_access_Snowf_1908.nc
+  hashes:
+    binhash: 767bb13ae4a9b0d67276efcbcc39db31
+    md5: ffab85a3572ede5d6423c3d9a512ca6e
+work/INPUT/crujra_access_Snowf_1909.nc:
+  fullpath: /g/data/tm70/sb8430/cable/MetForcing/crujra_access/Snowf/crujra_access_Snowf_1909.nc
+  hashes:
+    binhash: eb8a10a6bd253034ad112c73f231d8f6
+    md5: d453e24aa33a150682cdfc8d120d29a1
+work/INPUT/crujra_access_Tair_1901.nc:
+  fullpath: /g/data/tm70/sb8430/cable/MetForcing/crujra_access/Tair/crujra_access_Tair_1901.nc
+  hashes:
+    binhash: 0ab57e1fab3c1297915afa7e084148ec
+    md5: 15e8aa80173c249b938d43b5c1fb7152
+work/INPUT/crujra_access_Tair_1902.nc:
+  fullpath: /g/data/tm70/sb8430/cable/MetForcing/crujra_access/Tair/crujra_access_Tair_1902.nc
+  hashes:
+    binhash: 56f4c0ade60edfe3cab252c92b82a790
+    md5: 16f8c75c06bc0e97990419c73a9100b8
 work/INPUT/crujra_access_Tair_1903.nc:
-  fullpath: /g/data/tm70/ccc561/CABLE/CABLE-as-ACCESS_Yingping/cruncep10/crujra_access_Tair_1903.nc
+  fullpath: /g/data/tm70/sb8430/cable/MetForcing/crujra_access/Tair/crujra_access_Tair_1903.nc
   hashes:
-    binhash: 1e2518a4614996dc4b7626cd07877266
+    binhash: 52e6575f6a43ac53e2bacca4c1eb347d
     md5: d98a3831dde962d70be0b4f71d29645e
-work/INPUT/crujra_access_Wind_1903.nc:
-  fullpath: /g/data/tm70/ccc561/CABLE/CABLE-as-ACCESS_Yingping/cruncep10/crujra_access_Wind_1903.nc
+work/INPUT/crujra_access_Tair_1904.nc:
+  fullpath: /g/data/tm70/sb8430/cable/MetForcing/crujra_access/Tair/crujra_access_Tair_1904.nc
   hashes:
-    binhash: e366baca92bc4d36e8ba6134a92ee468
+    binhash: dd03a9823880f7d8196d1b5dc9de349b
+    md5: bacad1525fbdf452ffc935a3d0361e82
+work/INPUT/crujra_access_Tair_1905.nc:
+  fullpath: /g/data/tm70/sb8430/cable/MetForcing/crujra_access/Tair/crujra_access_Tair_1905.nc
+  hashes:
+    binhash: b1ff6facd09add990b44a07b9d4b5011
+    md5: e14b4da6e1b39ffe7fa465fe38b99ca2
+work/INPUT/crujra_access_Tair_1906.nc:
+  fullpath: /g/data/tm70/sb8430/cable/MetForcing/crujra_access/Tair/crujra_access_Tair_1906.nc
+  hashes:
+    binhash: 79f77e6680dca0700f77b07d9c9d8215
+    md5: 561887f6c67cc22189bf9be1a6056cec
+work/INPUT/crujra_access_Tair_1907.nc:
+  fullpath: /g/data/tm70/sb8430/cable/MetForcing/crujra_access/Tair/crujra_access_Tair_1907.nc
+  hashes:
+    binhash: 5d1abd87dbde01b46f9b3927087ff9f6
+    md5: f082b2586e0e846bbf4b16f05288b028
+work/INPUT/crujra_access_Tair_1908.nc:
+  fullpath: /g/data/tm70/sb8430/cable/MetForcing/crujra_access/Tair/crujra_access_Tair_1908.nc
+  hashes:
+    binhash: 0b5d4a201e66238a665c065d96b3832e
+    md5: 349b1fb2a46850c38a446f9f47604f20
+work/INPUT/crujra_access_Tair_1909.nc:
+  fullpath: /g/data/tm70/sb8430/cable/MetForcing/crujra_access/Tair/crujra_access_Tair_1909.nc
+  hashes:
+    binhash: 35c65a6c47856c6041ddd8876e9a6706
+    md5: 08903d2eb47a9a83189417cf61a1b212
+work/INPUT/crujra_access_Wind_1901.nc:
+  fullpath: /g/data/tm70/sb8430/cable/MetForcing/crujra_access/Wind/crujra_access_Wind_1901.nc
+  hashes:
+    binhash: a868bd3bb0ad0b33b1bd124299a2b810
+    md5: 8706a96b3a771d55e62c4508a3cebe25
+work/INPUT/crujra_access_Wind_1902.nc:
+  fullpath: /g/data/tm70/sb8430/cable/MetForcing/crujra_access/Wind/crujra_access_Wind_1902.nc
+  hashes:
+    binhash: 1d0fe7407c4572896caef1eadeee5ab8
+    md5: 0f839b727e1072b5a02d030b0ff01e59
+work/INPUT/crujra_access_Wind_1903.nc:
+  fullpath: /g/data/tm70/sb8430/cable/MetForcing/crujra_access/Wind/crujra_access_Wind_1903.nc
+  hashes:
+    binhash: dde3fedca68896e6a38fbcd2a199f5f8
     md5: ea2df972214b7e0b4323843b39bfe12a
+work/INPUT/crujra_access_Wind_1904.nc:
+  fullpath: /g/data/tm70/sb8430/cable/MetForcing/crujra_access/Wind/crujra_access_Wind_1904.nc
+  hashes:
+    binhash: 268ad79fbbaa3e0102f27468e6362f51
+    md5: cee4375b0dfd082cb5c82d2df145f9ee
+work/INPUT/crujra_access_Wind_1905.nc:
+  fullpath: /g/data/tm70/sb8430/cable/MetForcing/crujra_access/Wind/crujra_access_Wind_1905.nc
+  hashes:
+    binhash: 0f06b130a88cc026d4c5f185cfc180e7
+    md5: e04a5c5c0141fe009e5b96c944d2ecf5
+work/INPUT/crujra_access_Wind_1906.nc:
+  fullpath: /g/data/tm70/sb8430/cable/MetForcing/crujra_access/Wind/crujra_access_Wind_1906.nc
+  hashes:
+    binhash: a1c4c749c9375403d077d0bba20ac469
+    md5: 3bf70acb355a6ec7d9c01cf8653fb417
+work/INPUT/crujra_access_Wind_1907.nc:
+  fullpath: /g/data/tm70/sb8430/cable/MetForcing/crujra_access/Wind/crujra_access_Wind_1907.nc
+  hashes:
+    binhash: fd57ebde6b78c69434b8f9134559c1f4
+    md5: ff08457d836b48f9b9f3dad2a8b3f612
+work/INPUT/crujra_access_Wind_1908.nc:
+  fullpath: /g/data/tm70/sb8430/cable/MetForcing/crujra_access/Wind/crujra_access_Wind_1908.nc
+  hashes:
+    binhash: dbd37973b02fcc8ce3a8a9fc8e4b9a9c
+    md5: 4fa963275d0c7e05bf1f88f4f92749f5
+work/INPUT/crujra_access_Wind_1909.nc:
+  fullpath: /g/data/tm70/sb8430/cable/MetForcing/crujra_access/Wind/crujra_access_Wind_1909.nc
+  hashes:
+    binhash: bbb0de5b6ff7365477a6fa643bcb9362
+    md5: 626f658b5ea890cea164f6024a9a844f
+work/INPUT/crujra_access_gridinfo.nc:
+  fullpath: /g/data/tm70/sb8430/cable/MetForcing/crujra_access/crujra_access_gridinfo.nc
+  hashes:
+    binhash: de6cf2f03016c8fffa0b8c8379caf982
+    md5: 12e7eab52b0e758d6d8b683090166308
+work/INPUT/crujra_access_landmask.nc:
+  fullpath: /g/data/tm70/sb8430/cable/MetForcing/crujra_access/crujra_access_landmask.nc
+  hashes:
+    binhash: b2fb9af4076f00cd0f31c34c31dbd7ed
+    md5: b62ae264048e0ec1c47104d58a6aebac
 work/INPUT/def_soil_params.txt:
   fullpath: /home/189/sb8430/cable/CABLE-AUX/core/biogeophys/def_soil_params.txt
   hashes:
@@ -51,13 +386,3 @@ work/INPUT/def_veg_params_zr_clitt_albedo_fix.txt:
   hashes:
     binhash: 778f82e71b6e11762aa334146fad94f4
     md5: 774b9f4b1c44a251cdb403d7596de280
-work/INPUT/gridinfo-access-esm.nc:
-  fullpath: /g/data/tm70/ccc561/CABLE/CABLE-as-ACCESS_Yingping/input/gridinfo-access-esm.nc
-  hashes:
-    binhash: 18671bc1079f6884264a034bb1c66c90
-    md5: 12e7eab52b0e758d6d8b683090166308
-work/INPUT/landsea-access-esm.nc:
-  fullpath: /home/189/sb8430/cable_inputs/landsea-access-esm.nc
-  hashes:
-    binhash: 1a40cdc1158938323e71302bb4f7b1c4
-    md5: b62ae264048e0ec1c47104d58a6aebac

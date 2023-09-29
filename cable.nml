@@ -4,7 +4,7 @@
    filename%log = 'cable_log.txt'
    filename%restart_in = 'RESTART/restart.nc'
    filename%restart_out = 'RESTART/restart.nc'
-   filename%type = 'INPUT/gridinfo-access-esm.nc'
+   filename%type = 'INPUT/crujra_access_gridinfo.nc'
    filename%veg = 'INPUT/def_veg_params_zr_clitt_albedo_fix.txt'
    filename%soil = 'INPUT/def_soil_params.txt'
    vegparmnew = .TRUE.  ! using new format when true
@@ -64,9 +64,9 @@
    CABLE_USER%soil_thermal_fix =.TRUE.
    l_casacnp=.FALSE. 
    icycle=0
-   gswpfile%mask = 'INPUT/landsea-access-esm.nc'
-   gswpfile%Rainf = 'INPUT/crujra_access_Rainf_rain_$year.nc' 
-   gswpfile%snowf = 'INPUT/crujra_access_Rainf_snow_$year.nc' 
+   gswpfile%mask = 'INPUT/crujra_access_landmask.nc'
+   gswpfile%Rainf = 'INPUT/crujra_access_Rainf_$year.nc' 
+   gswpfile%snowf = 'INPUT/crujra_access_Snowf_$year.nc' 
    gswpfile%LWdown = 'INPUT/crujra_access_LWdown_$year.nc' 
    gswpfile%SWdown = 'INPUT/crujra_access_SWdown_$year.nc' 
    gswpfile%PSurf = 'INPUT/crujra_access_PSurf_$year.nc' 

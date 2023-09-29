@@ -4,5 +4,5 @@ version: 1.0
 work/cable-mpi:
   fullpath: /home/189/sb8430/cable/trunk/offline/cable-mpi
   hashes:
-    binhash: 72ae55ac921038fad4f38e95f6fba682
-    md5: 77051a0b883c05711df3cb9f8b32a47f
+    binhash: aeec382f8c3cc0ce6655a9cc7a2346b7
+    md5: 0daf663b17389235cbfe4fdfa6fc95b9
