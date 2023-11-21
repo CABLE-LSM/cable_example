@@ -28,8 +28,3 @@ collate: False
 # The walltime time used for one run ~ 3 minutes
 runspersub: 10
 
-# Specify restart directory (warm start). Should contain:
-# - cable.res.yaml
-# - restart.nc (CABLE restart file)
-restart: /home/189/sb8430/cable_restart_1903
-
