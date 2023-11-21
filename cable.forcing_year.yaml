@@ -1,0 +1,17 @@
+# cable.forcing.yaml
+# This configuration file is optional. If this file is present, the model
+# driver updates the met forcing paths in the namelist file to point to the
+# correct met forcing for the current simulation year.
+
+# offset: [<from>, <to>]
+# Offset the current simulation year from year <from> to year <to> before
+# updating the met forcing paths.
+# This key is optional.
+
+# repeat: [<from>, <to>]
+# Constrain the current simulation year between years <from> to <to>
+# (inclusive) before updating the met forcing paths. When the current
+# simulation year is outside the range specified, the forcing is repeated over
+# the specified range.
+# This key is optional.
+repeat: [1901, 1909]
