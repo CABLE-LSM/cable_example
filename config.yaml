@@ -22,9 +22,6 @@ input:
     - /home/189/sb8430/cable/CABLE-AUX/core/biogeophys/def_veg_params_zr_clitt_albedo_fix.txt
     - /home/189/sb8430/cable/CABLE-AUX/core/biogeophys/def_soil_params.txt
 
-userscripts:
-  setup: python3 update_forcing.py --repeat 1901 1909
-
 # Disable collation
 collate: False
 
