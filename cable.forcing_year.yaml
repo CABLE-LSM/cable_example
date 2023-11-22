@@ -1,4 +1,3 @@
-# cable.forcing.yaml
 # This configuration file is optional. If this file is present, the model
 # driver updates the met forcing paths in the namelist file to point to the
 # correct met forcing for the current simulation year.
