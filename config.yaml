@@ -19,8 +19,6 @@ input:
     - /g/data/tm70/sb8430/cable/MetForcing/crujra_access/Wind
     - /g/data/tm70/sb8430/cable/MetForcing/crujra_access/crujra_access_landmask.nc
     - /g/data/tm70/sb8430/cable/MetForcing/crujra_access/crujra_access_gridinfo.nc
-    - /home/189/sb8430/cable/CABLE-AUX/core/biogeophys/def_veg_params_zr_clitt_albedo_fix.txt
-    - /home/189/sb8430/cable/CABLE-AUX/core/biogeophys/def_soil_params.txt
 
 # Disable collation
 collate: False
