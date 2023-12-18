@@ -12,4 +12,4 @@ Uses CRUJRA forcing.
 2. In offline/build3.sh, change the MPI module to openmpi/4.1.4, then compile CABLE with MPI: `build3.sh mpi`
 3. Clone this cable_example repository
 4. Modify the config.yaml file with the path to your CABLE executable.
-5. Run with payu: `payu run`
+5. Run with payu: `payu run`. Note `payu` will need to be installed with CABLE driver (see https://github.com/payu-org/payu/pull/314)
