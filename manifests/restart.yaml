@@ -1,13 +1,3 @@
 format: yamanifest
 version: 1.0
----
-work/INPUT/cable.res.yaml:
-  fullpath: /home/189/sb8430/cable_restart_1903/cable.res.yaml
-  hashes:
-    binhash: 52c4adbe7ed512221ae6e919c3acdcf0
-    md5: ef3a41154d7e7d2f1351c61bb9675e67
-work/INPUT/restart.nc:
-  fullpath: /home/189/sb8430/cable_restart_1903/restart.nc
-  hashes:
-    binhash: 9b84b81345b182e30b7b7aec02845e67
-    md5: f64636dcdaa7c791e938eb452a7ce90d
+--- {}
