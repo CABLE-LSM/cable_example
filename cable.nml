@@ -4,7 +4,7 @@
    filename%log = 'cable_log.txt'
    filename%restart_in = 'INPUT/restart.nc'
    filename%restart_out = 'RESTART/restart.nc'
-   filename%type = 'INPUT/crujra_access_gridinfo.nc'
+   filename%type = 'INPUT/crujra_accessN96_gridinfo.nc'
    vegparmnew = .TRUE.  ! using new format when true
    soilparmnew = .TRUE.  ! using new format when true
    spinup = .FALSE.
@@ -62,7 +62,7 @@
    CABLE_USER%soil_thermal_fix =.TRUE.
    l_casacnp=.FALSE. 
    icycle=0
-   gswpfile%mask = 'INPUT/crujra_access_landmask.nc'
+   gswpfile%mask = 'INPUT/crujra_accessN96_landmask.nc'
    gswpfile%Rainf = 'INPUT/crujra_access_Rainf_1901.nc' 
    gswpfile%snowf = 'INPUT/crujra_access_Snowf_1901.nc' 
    gswpfile%LWdown = 'INPUT/crujra_access_LWdown_1901.nc' 

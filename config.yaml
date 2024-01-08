@@ -3,22 +3,22 @@ queue: normal
 ncpus: 16
 walltime: 1:00:00
 mem: 64GB
-jobname: cable_example
+jobname: crujra_accessN96_1h
 
 # Model settings
 model: cable
 exe: /home/189/sb8430/cable/trunk/offline/cable-mpi # cable trunk (last changed revision: 9469):
 input:
-    - /g/data/tm70/sb8430/cable/MetForcing/crujra_access/LWdown
-    - /g/data/tm70/sb8430/cable/MetForcing/crujra_access/PSurf
-    - /g/data/tm70/sb8430/cable/MetForcing/crujra_access/Qair
-    - /g/data/tm70/sb8430/cable/MetForcing/crujra_access/Rainf
-    - /g/data/tm70/sb8430/cable/MetForcing/crujra_access/Snowf
-    - /g/data/tm70/sb8430/cable/MetForcing/crujra_access/SWdown
-    - /g/data/tm70/sb8430/cable/MetForcing/crujra_access/Tair
-    - /g/data/tm70/sb8430/cable/MetForcing/crujra_access/Wind
-    - /g/data/tm70/sb8430/cable/MetForcing/crujra_access/crujra_access_landmask.nc
-    - /g/data/tm70/sb8430/cable/MetForcing/crujra_access/crujra_access_gridinfo.nc
+    - /g/data/rp23/data/no_provenance/met_forcing/crujra_accessN96_1h/LWdown
+    - /g/data/rp23/data/no_provenance/met_forcing/crujra_accessN96_1h/PSurf
+    - /g/data/rp23/data/no_provenance/met_forcing/crujra_accessN96_1h/Qair
+    - /g/data/rp23/data/no_provenance/met_forcing/crujra_accessN96_1h/Rainf
+    - /g/data/rp23/data/no_provenance/met_forcing/crujra_accessN96_1h/Snowf
+    - /g/data/rp23/data/no_provenance/met_forcing/crujra_accessN96_1h/SWdown
+    - /g/data/rp23/data/no_provenance/met_forcing/crujra_accessN96_1h/Tair
+    - /g/data/rp23/data/no_provenance/met_forcing/crujra_accessN96_1h/Wind
+    - /g/data/rp23/data/no_provenance/landmask/crujra_accessN96_landmask.nc
+    - /g/data/rp23/data/no_provenance/gridinfo/crujra_accessN96_gridinfo.nc
 
 # Disable collation
 collate: False
