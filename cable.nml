@@ -22,7 +22,7 @@
    output%patchfrac = .TRUE.  ! patchfrac output  
    output%params = .TRUE.  ! input parameters used to produce run
    output%balances = .TRUE.  ! energy and water balances
-   check%ranges = .FALSE.  ! variable ranges, input and output
+   check%ranges = 0  ! variable ranges, input and output
    check%energy_bal = .TRUE.  ! energy balance
    check%mass_bal = .TRUE.  ! water/mass balance
    verbose = .TRUE.
