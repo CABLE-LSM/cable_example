@@ -1,13 +1,13 @@
 # Scheduler settings
 queue: normal
-ncpus: 16
+ncpus: 4
 walltime: 1:00:00
 mem: 64GB
 jobname: crujra_accessN96_1h
 
 # Model settings
 model: cable
-exe: /home/189/sb8430/cable/trunk/offline/cable-mpi # cable trunk (last changed revision: 9469):
+exe: /home/189/sb8430/cable/bin/cable-mpi
 input:
     - /g/data/rp23/data/no_provenance/met_forcing/crujra_accessN96_1h/LWdown
     - /g/data/rp23/data/no_provenance/met_forcing/crujra_accessN96_1h/PSurf
@@ -17,7 +17,7 @@ input:
     - /g/data/rp23/data/no_provenance/met_forcing/crujra_accessN96_1h/SWdown
     - /g/data/rp23/data/no_provenance/met_forcing/crujra_accessN96_1h/Tair
     - /g/data/rp23/data/no_provenance/met_forcing/crujra_accessN96_1h/Wind
-    - /g/data/rp23/data/no_provenance/landmask/crujra_accessN96_landmask.nc
+    - /g/data/tm70/sb8430/crujra_accessN96_reduced_landmask/crujra_accessN96_reduced_landmask.nc
     - /g/data/rp23/data/no_provenance/gridinfo/crujra_accessN96_gridinfo.nc
 
 # Disable collation
